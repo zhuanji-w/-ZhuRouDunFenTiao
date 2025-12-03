@@ -1,0 +1,84 @@
+{
+  "generated_time": "2025-12-02T16:55:41.609875",
+  "data_dir": "/home/6000030801/ceshi/1106/code_multimodal/data",
+  "authors": {
+    "Orson Scott Card": {
+      "primary_name": "Orson Scott Card",
+      "dirname": "007 - Orson Scott Card(奥森·斯科特·卡德)",
+      "is_chinese": false,
+      "alternate_names": [
+        "奥森·斯科特·卡德"
+      ]
+    },
+    "王晋康": {
+      "primary_name": "王晋康",
+      "dirname": "010 - 王晋康",
+      "is_chinese": true,
+      "alternate_names": []
+    },
+    "Mary Shelley": {
+      "primary_name": "Mary Shelley",
+      "dirname": "005 - Mary Shelley(玛丽·雪莱)",
+      "is_chinese": false,
+      "alternate_names": [
+        "玛丽·雪莱"
+      ]
+    },
+    "刘慈欣": {
+      "primary_name": "刘慈欣",
+      "dirname": "001 - 刘慈欣(Cixin Liu)",
+      "is_chinese": true,
+      "alternate_names": [
+        "Cixin Liu"
+      ]
+    },
+    "Michael Swanwick": {
+      "primary_name": "Michael Swanwick",
+      "dirname": "009 - Michael Swanwick (迈克尔·斯万维克) ",
+      "is_chinese": false,
+      "alternate_names": [
+        "迈克尔·斯万维克"
+      ]
+    },
+    "Frank Herbert": {
+      "primary_name": "Frank Herbert",
+      "dirname": "002 - Frank Herbert(弗兰克·赫伯特)",
+      "is_chinese": false,
+      "alternate_names": [
+        "弗兰克·赫伯特"
+      ]
+    },
+    "Jules Gabriel Verne": {
+      "primary_name": "Jules Gabriel Verne",
+      "dirname": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)",
+      "is_chinese": false,
+      "alternate_names": [
+        "儒勒·加布里埃尔·凡尔纳"
+      ]
+    },
+    "Isaac Asimov": {
+      "primary_name": "Isaac Asimov",
+      "dirname": "003 - Isaac Asimov(艾萨克·阿西莫夫)",
+      "is_chinese": false,
+      "alternate_names": [
+        "艾萨克·阿西莫夫"
+      ]
+    },
+    "Ray Douglas Bradbury": {
+      "primary_name": "Ray Douglas Bradbury",
+      "dirname": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)",
+      "is_chinese": false,
+      "alternate_names": [
+        "雷·道格拉斯·布拉德伯里"
+      ]
+    },
+    "Ted Chiang": {
+      "primary_name": "Ted Chiang",
+      "dirname": "008 - Ted Chiang(特德·姜)",
+      "is_chinese": false,
+      "alternate_names": [
+        "特德·姜"
+      ]
+    }
+  }
+}

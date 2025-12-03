@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>多模态RAG智能聊天系统</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 多模态RAG智能聊天系统</h1>
+            <p>基于向量检索的智能问答系统 | 支持文档上传与多模态交互</p>
+        </div>
+
+        <div class="main-content">
+            <div class="chat-container">
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message bot-message">
+                        <div class="avatar bot-avatar">AI</div>
+                        <div class="message-content">
+                            <div class="message-text">
+                                您好！我是多模态RAG智能助手，我可以帮您：
+                                <br>• 回答关于上传文档的问题
+                                <br>• 进行智能对话交流
+                                <br>• 处理多种类型的文件
+                                <br>请上传文档或直接开始提问吧！
+                            </div>
+                            <div class="message-time">刚刚</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="typing-indicator" id="typingIndicator">
+                    <span>AI正在思考</span>
+                    <div class="typing-dots">
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                    </div>
+                </div>
+
+                <div class="chat-input-container">
+                    <div class="input-group">
+                        <div class="file-upload-container">
+                            <input type="file" id="fileInput" class="file-input" multiple accept=".pdf,.txt,.md">
+                            <label for="fileInput" class="file-label" title="上传文件">
+                                📎
+                            </label>
+                        </div>
+                        
+                        <textarea 
+                            id="chatInput" 
+                            class="chat-input" 
+                            placeholder="输入您的问题...（支持多行输入，Shift+Enter换行）"
+                            rows="1"
+                        ></textarea>
+                        
+                        <button id="sendButton" class="send-button">
+                            <span>发送</span>
+                            <span>➤</span>
+                        </button>
+                    </div>
+
+                    <div style="margin-top: 10px; display: flex; align-items: center;">
+                        <label style="color: #6b7280; font-size: 0.9rem; display: flex; align-items: center; cursor: pointer;">
+                            <input type="checkbox" id="genImageCheck" style="margin-right: 5px;"> 生成配图
+                        </label>
+                    </div>
+                    
+                    <div class="file-list" id="fileList"></div>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <div class="upload-section">
+                    <h3>📤 文档上传</h3>
+                    <div class="drop-zone" id="dropZone">
+                        <div>📁</div>
+                        <p>拖放文件到此处或点击上传</p>
+                        <small>支持 PDF, TXT, MD 格式</small>
+                    </div>
+                    <button class="upload-button" id="uploadButton">开始上传文档</button>
+                    <div id="uploadProgress"></div>
+                </div>
+
+                <div class="status-section">
+                    <h3>📊 系统状态</h3>
+                    <div class="status-item">
+                        <span>聊天连接</span>
+                        <span style="color: var(--success)">● 在线</span>
+                    </div>
+                    <div class="status-item">
+                        <span>文件处理</span>
+                        <span style="color: var(--success)">● 就绪</span>
+                    </div>
+                    <div class="status-item">
+                        <span>向量索引</span>
+                        <span style="color: var(--success)">● 已加载</span>
+                    </div>
+                    <div class="status-item">
+                        <span>多模态支持</span>
+                        <span style="color: var(--success)">● 启用</span>
+                    </div>
+                    <div class="status-item">
+                         <button id="refreshBtn" style="background:none; border:1px solid var(--gray); color:var(--light); padding: 2px 5px; border-radius: 4px; cursor: pointer; font-size: 0.8rem;">刷新索引</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
