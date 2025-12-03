@@ -1,0 +1,1019 @@
+{
+  "data_signature": {
+    "files": [
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/0-刘慈欣汇总.md",
+        "size": 19631,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1985]《宇宙坍缩》.txt",
+        "size": 19912,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1987]《微观尽头》.txt",
+        "size": 12545,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
+        "size": 250352,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(内地实体删节版).txt",
+        "size": 586011,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
+        "size": 638324,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1997-1]《梦之海》.txt",
+        "size": 56576,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1997-2]《诗云》(李白).txt",
+        "size": 57552,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1997-3]《欢乐颂》.txt",
+        "size": 49151,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1998-1]《西洋》 .txt",
+        "size": 21788,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1998-2]《微纪元》.txt",
+        "size": 43532,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1998-3]《天使时代》(波斯湾飞马).txt",
+        "size": 61276,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1998-4]《光荣与梦想》.txt",
+        "size": 76066,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1998-5]《地球大炮》(深井).txt",
+        "size": 72751,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1999-1]《鲸歌》.txt",
+        "size": 21379,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1999-2]《带上她的眼晴》.txt",
+        "size": 25733,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1999-3]《信使》.txt",
+        "size": 13284,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[1999-4]《混沌蝴蝶》.txt",
+        "size": 39984,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2000-1]《地火》.txt",
+        "size": 70389,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2000-2]《流浪地球》.txt",
+        "size": 68948,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2000-3]《乡村教师》.txt",
+        "size": 65936,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2000-4]《魔鬼积木》.txt",
+        "size": 201165,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（中国版）.txt",
+        "size": 87404,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（俄罗斯版）.txt",
+        "size": 87530,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-2]《中国太阳》.txt",
+        "size": 69324,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-3]《朝闻道》(爱因斯坦赤道).txt",
+        "size": 51635,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-4]《纤维》.txt",
+        "size": 14914,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-5]《命运》.txt",
+        "size": 17577,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2001-6]《球状闪电》.txt",
+        "size": 529710,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2002-1]《吞食者》.txt",
+        "size": 62061,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2002-2]《思想者》.txt",
+        "size": 32800,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2003-1]《白垩纪往事》(谁替恐龙剔牙).txt",
+        "size": 74399,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
+        "size": 16016,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2003-3]《人生》.txt",
+        "size": 15331,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2004-1]《镜子》.txt",
+        "size": 97255,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2004-2]《圆圆的肥皂泡》.txt",
+        "size": 36262,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2004-3]《当恐龙遇上蚂蚁》（白垩纪往事）.txt",
+        "size": 202225,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2005-1]《山》.txt",
+        "size": 61653,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2005-2]《赡养上帝》.txt",
+        "size": 61125,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2005-3]《赡养人类》.txt",
+        "size": 82989,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
+        "size": 0,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2006]《三体》.txt",
+        "size": 579013,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2008]《三体2黑暗森林》.txt",
+        "size": 979446,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2009]《月夜》.txt",
+        "size": 24082,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2010-1]《2018年4月1日》.txt",
+        "size": 16006,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2010-2]《太原之恋》.txt",
+        "size": 32754,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2010-3]《时间移民》.txt",
+        "size": 28370,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2010-4]《三体3死神永生》.txt",
+        "size": 1053689,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
+        "size": 28034,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2015-7]《圆》（人列计算机）.txt",
+        "size": 28846,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2016]《不能共存的节日》.txt",
+        "size": 10405,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "001 - 刘慈欣(Cixin Liu)/[2017]《黄金原野》.txt",
+        "size": 32692,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "002 - Frank Herbert(弗兰克·赫伯特)/[1965]《沙丘》(Dune).txt",
+        "size": 1069767,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "002 - Frank Herbert(弗兰克·赫伯特)/[1969]《沙丘救世主》(Dune Messiah).txt",
+        "size": 448954,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "002 - Frank Herbert(弗兰克·赫伯特)/[1976]《沙丘之子》(Children of Dune).txt",
+        "size": 775457,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/0-IsaacAsimov.md",
+        "size": 51060,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/AL-76号走失记.txt",
+        "size": 31483,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1950]《我，机器人》(I, Robot).txt",
+        "size": 259908,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《永恒的终结》.pdf",
+        "size": 1292714,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1972]《神们自己》(The Gods Themselves).txt",
+        "size": 543858,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/一只下金蛋的鹅.txt",
+        "size": 10326,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/不朽的诗人.txt",
+        "size": 5125,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/九个明天.txt",
+        "size": 452507,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/二百岁的寿星.txt",
+        "size": 82150,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/人语石.txt",
+        "size": 44195,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/他们那时多有趣.txt",
+        "size": 5121,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/低能儿收容所.txt",
+        "size": 141628,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/假如.txt",
+        "size": 28178,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/力量的感觉.txt",
+        "size": 24106,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/台球.txt",
+        "size": 38122,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/响铃.txt",
+        "size": 34109,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/啊，巴顿，巴顿！.txt",
+        "size": 26240,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/地球母亲.txt",
+        "size": 71790,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲1：[1951]《基地》(Foundation).txt",
+        "size": 435459,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲2：[1952]《基地与帝国》(Foundation and Empire).txt",
+        "size": 504616,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲3：[1953]《第二基地》(Second Foundation).txt",
+        "size": 467013,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传1：[1982]《基地边缘》(Foundation's Edge).txt",
+        "size": 865777,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传2：[1986]《基地与地球》(Foundation and Earth).txt",
+        "size": 852567,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传1：[1988]《基地前奏》(Prelude to Foundation).txt",
+        "size": 781873,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传2：[1993]《迈向基地》(Forward the Foundation).txt",
+        "size": 675662,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/复仇女神.txt",
+        "size": 765486,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/天堂里的陌生人.txt",
+        "size": 57255,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/奇妙的航程.txt",
+        "size": 407741,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/奇袭.txt",
+        "size": 66274,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/如鱼得水.txt",
+        "size": 17473,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/孩子最好的朋友.txt",
+        "size": 6692,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/尼德林教授的试题.txt",
+        "size": 9229,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/怪异的谋杀案.txt",
+        "size": 21352,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/捉兔记.txt",
+        "size": 45660,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/换个角度.txt",
+        "size": 6986,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/日暮.txt",
+        "size": 45059,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/星光.txt",
+        "size": 8318,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/最后的问题.txt",
+        "size": 32520,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人的幻想.txt",
+        "size": 43832,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1954]《钢穴》.txt",
+        "size": 435057,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1957]《裸阳》.txt",
+        "size": 413765,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1983]《曙光中的机器人》.txt",
+        "size": 209526,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1985]《机器人与帝国》.txt",
+        "size": 233384,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/格洛里亚的好朋友.txt",
+        "size": 46747,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/死尘.txt",
+        "size": 24765,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/法律之争.txt",
+        "size": 2896,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/火星方式.txt",
+        "size": 94279,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/灶神星畔受困记.txt",
+        "size": 35177,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/真爱.txt",
+        "size": 8745,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/眼睛不仅用来看东西.txt",
+        "size": 6772,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/确定无疑的事.txt",
+        "size": 2968,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/神奇的汽车——萨莉.txt",
+        "size": 43077,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/第一定律.txt",
+        "size": 6640,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/终极答案.txt",
+        "size": 14830,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/被遗忘的世界.txt",
+        "size": 14410,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/讣告.txt",
+        "size": 35322,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/讲笑话的人.txt",
+        "size": 32509,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/谁是凶手.txt",
+        "size": 16340,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/钥匙.txt",
+        "size": 69482,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/1 - [1951]《繁星若尘》.txt",
+        "size": 433046,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/2 - [1952]《星空暗流》.txt",
+        "size": 399834,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/3 - [1950]《苍穹微石》.txt",
+        "size": 434182,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/镜象.txt",
+        "size": 29552,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+        "size": 9036,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "003 - Isaac Asimov(艾萨克·阿西莫夫)/黑鳏夫酒家的聚会.txt",
+        "size": 33140,
+        "mtime": 1763367211
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/0-凡尔纳汇总.md",
+        "size": 2744,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1868]《格兰特船长的儿女》.txt",
+        "size": 969605,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1870]《海底两万里》(Vingt mille lieues sous les mers).txt",
+        "size": 739860,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1875]《神秘岛》.txt",
+        "size": 970756,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1865]《从地球到月球》(De la Terre à la Lune).txt",
+        "size": 276600,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1870]《环绕月球》.txt",
+        "size": 331287,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1889]《北冰洋的幻想》(又名'扭转乾坤').txt",
+        "size": 229359,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1863]《气球上的五星期》.txt",
+        "size": 538008,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1864]《地心游记》.txt",
+        "size": 344583,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1866]《哈特拉斯船长历险记》.txt",
+        "size": 726131,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1873]《八十天环游地球》.txt",
+        "size": 427078,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1877]《太阳系历险记》.txt",
+        "size": 615401,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1882]《鲁滨逊学校》.txt",
+        "size": 310378,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1888]《两年假期》.txt",
+        "size": 494060,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1888]《绿光》.txt",
+        "size": 268608,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
+        "size": 29581,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《金火山》.txt",
+        "size": 631720,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1892]《冰岛怪兽》.txt",
+        "size": 693539,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1892]《喀尔巴阡古堡》.txt",
+        "size": 255927,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1894]《昂梯菲尔奇遇记》.txt",
+        "size": 542699,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1895]《机器岛》.txt",
+        "size": 681640,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1899]《大木筏》.txt",
+        "size": 501713,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1905]《大海入侵》.txt",
+        "size": 306890,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1908]《多瑙河领航员》.txt",
+        "size": 408979,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "005 - Mary Shelley(玛丽·雪莱)/[1818]《弗兰肯斯坦》(Frankenstein).txt",
+        "size": 445065,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《城市》.txt",
+        "size": 14979,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《太阳的故事》.txt",
+        "size": 10722,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《弄巧成拙》.txt",
+        "size": 19228,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《时光机》.txt",
+        "size": 17677,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《时间狩猎》.txt",
+        "size": 25623,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《杀“妻”》.txt",
+        "size": 12033,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《浓雾号角》.txt",
+        "size": 14818,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《湖》.txt",
+        "size": 13222,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《火星人》.txt",
+        "size": 23832,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《火气球》.txt",
+        "size": 39902,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《火箭飞行员》.txt",
+        "size": 22551,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《百万年野餐》.txt",
+        "size": 21646,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《细雨即将来临》.txt",
+        "size": 14700,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《苍白先生》.txt",
+        "size": 12423,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《雨一直下》.txt",
+        "size": 28609,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[----]《马里奥纳特公司的机器人》.txt",
+        "size": 15482,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《冰霜与烈火》.txt",
+        "size": 90629,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《2002年8月夜遇》.txt",
+        "size": 16321,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1953]《华氏451度》.txt",
+        "size": 72177,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "007 - Orson Scott Card(奥森·斯科特·卡德)/0-卡德汇总.md",
+        "size": 4212,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1985]《安德的游戏》.txt",
+        "size": 608923,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.txt",
+        "size": 512822,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1999]《安德的影子》(Ender's Shadow).txt",
+        "size": 819162,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "007 - Orson Scott Card(奥森·斯科特·卡德)/[2001]《霸主的影子》(Shadow of the Hegemon).txt",
+        "size": 666207,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/0-特德姜汇总.md",
+        "size": 3130,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[1990]《巴比伦塔》.txt",
+        "size": 43939,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[1998]《你一生的故事》.txt",
+        "size": 115377,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[2000]《七十二个字母》.txt",
+        "size": 99315,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[2001]《地狱是上帝不在的地方》(Hell Is the Absence of God).txt",
+        "size": 66913,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[2007]《商人和炼金术士之门》(The Merchant and the Alchemist's Gate).txt",
+        "size": 60767,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[2008]《呼吸》(Exhalation).txt",
+        "size": 33001,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "008 - Ted Chiang(特德·姜)/[2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt",
+        "size": 191491,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《不朽的机器》(Ancient Engines).txt",
+        "size": 19328,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt",
+        "size": 31892,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "009 - Michael Swanwick (迈克尔·斯万维克) /[2001]《狗说汪汪》(The Dog Said Bow-Wow).txt",
+        "size": 26170,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "009 - Michael Swanwick (迈克尔·斯万维克) /[2002]《缓慢的生命》(Slow Life).txt",
+        "size": 46132,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "009 - Michael Swanwick (迈克尔·斯万维克) /[2003]《时空军团》(Legions in Time).txt",
+        "size": 54007,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1993]《亚当回归》.txt",
+        "size": 28112,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1994]《天火》.txt",
+        "size": 29323,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1994]《魔鬼梦幻》.txt",
+        "size": 32278,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1994]《黑匣子里的爱情》.txt",
+        "size": 17378,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1995]《星期日病毒》.txt",
+        "size": 20486,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1995]《生命之歌》.txt",
+        "size": 50012,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1995]《追杀》.txt",
+        "size": 62102,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1996]《天河相会》.txt",
+        "size": 55524,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1996]《斯芬克司之谜》.txt",
+        "size": 85834,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1996]《西奈噩梦》.txt",
+        "size": 37656,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1997]《七重外壳》.txt",
+        "size": 62119,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1997]《三色世界》.txt",
+        "size": 95231,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1997]《拉格朗日坟场》.txt",
+        "size": 78877,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1997]《生死平衡》.txt",
+        "size": 179806,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1998]《太空雕像》.txt",
+        "size": 50329,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1998]《豹》.txt",
+        "size": 143778,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1998]《魔环》.txt",
+        "size": 50512,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1999]《失去它的日子》.txt",
+        "size": 43519,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[1999]《解读生命》.txt",
+        "size": 51058,
+        "mtime": 1763367212
+      },
+      {
+        "rel": "010 - 王晋康/[2001]《替天行道》.txt",
+        "size": 72100,
+        "mtime": 1763367212
+      }
+    ]
+  },
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dim": 384,
+  "created_time": "2025-12-02T16:57:16.247525"
+}
