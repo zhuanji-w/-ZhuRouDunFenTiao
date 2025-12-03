@@ -7,4 +7,4 @@ uv pip install 与uv add的作用一样
 uv pip updata xxx 更新包
 uv run xxx.py xxx.py   uv环境下启动xxx与xxx.py代码
 
-详情见https://yuanbao.tencent.com/sc/oPJZLKvswf5y1N7
+详情见  https://yuanbao.tencent.com/sc/oPJZLKvswf5y1N7
