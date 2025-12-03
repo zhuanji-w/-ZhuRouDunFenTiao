@@ -1,0 +1,10 @@
+uv环境梳理：
+uv就可以看做是一个虚拟环境，常见的uv命令，
+uv add xxx---作用是直接在uv环境中添加某一个py包
+uv init  ---作用是添加pyproject.toml文件，如果uv add xx提示报错，就是这个问题
+uv pip list ---查看uv环境下的包列表
+uv pip install 与uv add的作用一样
+uv pip updata xxx 更新包
+uv run xxx.py xxx.py   uv环境下启动xxx与xxx.py代码
+
+详情见https://yuanbao.tencent.com/sc/oPJZLKvswf5y1N7
